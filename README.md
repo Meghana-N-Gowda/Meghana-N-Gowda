@@ -57,7 +57,6 @@
 ---
 
 ## 🐍 GitHub Contribution Snake  
-(Add this after setting up workflow)
 
 ![Snake Animation](https://raw.githubusercontent.com/Meghana-N-Gowda/Meghana-N-Gowda/main/dist/snake.svg)
 
