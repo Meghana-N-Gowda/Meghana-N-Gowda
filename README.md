@@ -59,5 +59,5 @@
 ## 🐍 GitHub Contribution Snake  
 (Add this after setting up workflow)
 
-```md
-![Snake](https://raw.githubusercontent.com/Meghana-N-Gowda/Meghana-N-Gowda/main/dist/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/Meghana-N-Gowda/Meghana-N-Gowda/main/dist/snake.svg)
+
