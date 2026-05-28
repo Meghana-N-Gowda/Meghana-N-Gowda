@@ -7,8 +7,8 @@
 ## 🚀 About Me
 - 🎓 BE — Information Science and Engineering  
 - 💡 Passionate about **Web Development** and **Data Analytics**  
-- 🧠 Skilled in Python, JavaScript, SQL, React, Django  
-- 📊 Love solving problems with clean code & data  
+- 🧠 Skilled in Python, JavaScript, c, SQL, React.js, Django,HTML5, Tailwind CSS, Node.js, Express.js, MySQL, Git, Github, VS Code.
+- 📊 Interested in building user-friendly applications and solving real-world problems using data
 - 🤝 Strong teamwork, leadership & communication  
 
 ---
